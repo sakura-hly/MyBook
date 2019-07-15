@@ -1,0 +1,20 @@
+Our records indicate that your Safeword Card or BlackBerry MobilePass for Remote Access (Host 8) has not been used in the past five (5) months.In order to avoid having your Safeword Card or BlackBerry Mobile Pass deactivated, you must login to Remote Office.Your Safeword Card will be deactivated after six (6) months of inactivity.
+Action Required
+Follow the instructions below to login to Remote Office to avoid you Safeword Card or BlackBerry MobilePassfrom being deactivated.
+1.	From your home PC, navigate to your respective remote office site (these links will not work if you are working via Remote Office or from inside the Citi Network):
+Region	Remote Office URL
+NAM/LATAM	https://remoteoffice.citigroup.com
+
+EMEA	https://remoteoffice.europe.citigroup.com
+
+Asia / Japan	https://remoteoffice.asia.citigroup.com
+
+Australia	https://remoteoffice.australia.citigroup.com
+
+2.	Enter your SOEID in the "Username" field.
+Note: If you are a Smith Barney employee, please continue to use your login using as you normally would into Remote Access.
+3.	Enter your Safeword Card or BlackBerry MobilePass PIN into your respective device.
+Note: If you have forgotten your PIN, please click here if you are a Safeword Card user and click here if you are a BlackBerry MobilePass user.
+4.	Enter the generated password into the Remote Office "Password" field.
+5.	You will see the remote office homepage and do not need to do anything else.
+6.	Log out of Remote Office.
